@@ -1,0 +1,168 @@
+2025-10-19 20:11:43,001 - INFO - test_new_cars_details.py - setup_class - Line:16 - test new cars details started
+2025-10-19 20:11:47,041 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:29 - extracting maruti suzuki car details
+2025-10-19 20:11:47,041 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:11:47,422 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:11:47,422 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:11:47,639 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:11:48,650 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:11:48,714 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:11:50,719 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:23 - clicking on maruti suzuki cars
+2025-10-19 20:11:50,806 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:25 - clicked on maruti suzuki cars
+2025-10-19 20:11:52,699 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:31 - writing maruti suzuki car details in excel
+2025-10-19 20:11:52,731 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:33 - maruti suzuki car details saved in excel
+2025-10-19 20:11:56,699 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:36 - extracting mahindra car details
+2025-10-19 20:11:56,699 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:11:58,529 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:11:58,529 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:11:58,705 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:11:59,710 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:11:59,785 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:12:01,797 - INFO - NewCarsPage.py - select_Mahindra - Line:29 - clicking on mahindra cars
+2025-10-19 20:12:01,872 - INFO - NewCarsPage.py - select_Mahindra - Line:31 - clicked on mahindra cars
+2025-10-19 20:12:02,918 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:38 - writing mahindra car details in excel
+2025-10-19 20:12:02,996 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:40 - mahindra car details saved in excel
+2025-10-19 20:12:08,288 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:43 - extracting tata car details
+2025-10-19 20:12:08,288 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:12:08,665 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:12:08,665 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:12:08,848 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:12:09,863 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:12:09,953 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:12:11,967 - INFO - NewCarsPage.py - select_TATA - Line:35 - clicking on tata cars
+2025-10-19 20:12:12,081 - INFO - NewCarsPage.py - select_TATA - Line:37 - clicked on tata cars
+2025-10-19 20:12:13,263 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:45 - writing tata car details in excel
+2025-10-19 20:12:13,378 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:47 - tata car details saved in excel
+2025-10-19 20:12:18,604 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:50 - extracting bentley car details
+2025-10-19 20:12:18,604 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:12:18,924 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:12:18,924 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:12:19,132 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:12:20,142 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:12:20,220 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:12:22,229 - INFO - NewCarsPage.py - select_Bentley - Line:41 - clicking on bentley cars
+2025-10-19 20:12:22,308 - INFO - NewCarsPage.py - select_Bentley - Line:43 - clicked on bentley cars
+2025-10-19 20:12:22,962 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:52 - writing bentley car details in excel
+2025-10-19 20:12:23,048 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:54 - bentley car details saved in excel
+2025-10-19 20:12:29,124 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:13 - searching for car news
+2025-10-19 20:12:31,757 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:17 - clicking on latest news icon
+2025-10-19 20:12:32,849 - INFO - test_news.py - test_news - Line:24 - news screenshot attached to allure
+2025-10-19 20:12:40,380 - INFO - SellYourCarPage.py - fill_details - Line:10 - searching for city
+2025-10-19 20:12:40,573 - INFO - SellYourCarPage.py - fill_details - Line:12 - clicking on city
+2025-10-19 20:12:41,313 - INFO - SellYourCarPage.py - fill_details - Line:14 - clicking on pincode box
+2025-10-19 20:12:41,497 - INFO - SellYourCarPage.py - fill_details - Line:16 - searching for pincode
+2025-10-19 20:12:41,755 - INFO - SellYourCarPage.py - fill_details - Line:18 - clicking on desired pincode
+2025-10-19 20:12:41,895 - INFO - SellYourCarPage.py - fill_details - Line:20 - clicking on next button
+2025-10-19 20:12:42,052 - INFO - SellYourCarPage.py - fill_details - Line:22 - selecting year
+2025-10-19 20:12:42,890 - INFO - SellYourCarPage.py - fill_details - Line:24 - selecting month
+2025-10-19 20:12:42,978 - INFO - SellYourCarPage.py - fill_details - Line:26 - selecting brand
+2025-10-19 20:12:43,078 - INFO - SellYourCarPage.py - fill_details - Line:28 - selecting model
+2025-10-19 20:12:43,891 - INFO - SellYourCarPage.py - fill_details - Line:30 - selecting fuel
+2025-10-19 20:12:44,021 - INFO - SellYourCarPage.py - fill_details - Line:32 - selecting version
+2025-10-19 20:12:44,770 - INFO - SellYourCarPage.py - fill_details - Line:34 - selecting colour
+2025-10-19 20:12:45,488 - INFO - SellYourCarPage.py - fill_details - Line:36 - selecting alternate fuel
+2025-10-19 20:12:45,634 - INFO - SellYourCarPage.py - fill_details - Line:38 - selecting owner
+2025-10-19 20:12:45,724 - INFO - SellYourCarPage.py - fill_details - Line:40 - typing kilometers
+2025-10-19 20:12:45,840 - INFO - SellYourCarPage.py - fill_details - Line:42 - typing selling price
+2025-10-19 20:12:48,047 - INFO - SellYourCarPage.py - fill_details - Line:45 - clicking on post ad
+2025-10-19 20:12:57,679 - INFO - SellYourCarPage.py - fill_details - Line:10 - searching for city
+2025-10-19 20:12:57,853 - INFO - SellYourCarPage.py - fill_details - Line:12 - clicking on city
+2025-10-19 20:12:58,627 - INFO - SellYourCarPage.py - fill_details - Line:14 - clicking on pincode box
+2025-10-19 20:12:58,891 - INFO - SellYourCarPage.py - fill_details - Line:16 - searching for pincode
+2025-10-19 20:12:59,310 - INFO - SellYourCarPage.py - fill_details - Line:18 - clicking on desired pincode
+2025-10-19 20:12:59,438 - INFO - SellYourCarPage.py - fill_details - Line:20 - clicking on next button
+2025-10-19 20:12:59,537 - INFO - SellYourCarPage.py - fill_details - Line:22 - selecting year
+2025-10-19 20:13:00,198 - INFO - SellYourCarPage.py - fill_details - Line:24 - selecting month
+2025-10-19 20:13:00,471 - INFO - SellYourCarPage.py - fill_details - Line:26 - selecting brand
+2025-10-19 20:13:00,779 - INFO - SellYourCarPage.py - fill_details - Line:28 - selecting model
+2025-10-19 20:13:01,706 - INFO - SellYourCarPage.py - fill_details - Line:30 - selecting fuel
+2025-10-19 20:13:01,839 - INFO - SellYourCarPage.py - fill_details - Line:32 - selecting version
+2025-10-19 20:13:02,692 - INFO - SellYourCarPage.py - fill_details - Line:34 - selecting colour
+2025-10-19 20:13:03,284 - INFO - SellYourCarPage.py - fill_details - Line:36 - selecting alternate fuel
+2025-10-19 20:13:03,471 - INFO - SellYourCarPage.py - fill_details - Line:38 - selecting owner
+2025-10-19 20:13:03,584 - INFO - SellYourCarPage.py - fill_details - Line:40 - typing kilometers
+2025-10-19 20:13:03,762 - INFO - SellYourCarPage.py - fill_details - Line:42 - typing selling price
+2025-10-19 20:13:05,931 - INFO - SellYourCarPage.py - fill_details - Line:45 - clicking on post ad
+2025-10-19 20:13:21,199 - INFO - test_new_cars_details.py - setup_class - Line:16 - test new cars details started
+2025-10-19 20:13:24,262 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:29 - extracting maruti suzuki car details
+2025-10-19 20:13:24,262 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:13:24,576 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:13:24,576 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:13:24,842 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:13:25,847 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:13:25,922 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:13:27,938 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:23 - clicking on maruti suzuki cars
+2025-10-19 20:13:28,096 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:25 - clicked on maruti suzuki cars
+2025-10-19 20:13:29,099 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:31 - writing maruti suzuki car details in excel
+2025-10-19 20:13:29,113 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:33 - maruti suzuki car details saved in excel
+2025-10-19 20:13:35,916 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:36 - extracting mahindra car details
+2025-10-19 20:13:35,916 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:13:36,276 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:13:36,276 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:13:36,543 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:13:37,543 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:13:37,704 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:13:39,711 - INFO - NewCarsPage.py - select_Mahindra - Line:29 - clicking on mahindra cars
+2025-10-19 20:13:39,859 - INFO - NewCarsPage.py - select_Mahindra - Line:31 - clicked on mahindra cars
+2025-10-19 20:13:41,352 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:38 - writing mahindra car details in excel
+2025-10-19 20:13:41,424 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:40 - mahindra car details saved in excel
+2025-10-19 20:13:45,317 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:43 - extracting tata car details
+2025-10-19 20:13:45,318 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:13:47,314 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:13:47,314 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:13:47,499 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:13:48,503 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:13:48,751 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:13:50,759 - INFO - NewCarsPage.py - select_TATA - Line:35 - clicking on tata cars
+2025-10-19 20:13:50,931 - INFO - NewCarsPage.py - select_TATA - Line:37 - clicked on tata cars
+2025-10-19 20:13:52,266 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:45 - writing tata car details in excel
+2025-10-19 20:13:52,338 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:47 - tata car details saved in excel
+2025-10-19 20:13:57,750 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:50 - extracting bentley car details
+2025-10-19 20:13:57,750 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-19 20:13:58,137 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-19 20:13:58,139 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-19 20:13:58,406 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-19 20:13:59,426 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-19 20:13:59,512 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-19 20:14:01,525 - INFO - NewCarsPage.py - select_Bentley - Line:41 - clicking on bentley cars
+2025-10-19 20:14:01,645 - INFO - NewCarsPage.py - select_Bentley - Line:43 - clicked on bentley cars
+2025-10-19 20:14:02,341 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:52 - writing bentley car details in excel
+2025-10-19 20:14:02,408 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:54 - bentley car details saved in excel
+2025-10-19 20:14:08,553 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:13 - searching for car news
+2025-10-19 20:14:11,107 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:17 - clicking on latest news icon
+2025-10-19 20:14:11,421 - INFO - test_news.py - test_news - Line:24 - news screenshot attached to allure
+2025-10-19 20:14:19,202 - INFO - SellYourCarPage.py - fill_details - Line:10 - searching for city
+2025-10-19 20:14:19,394 - INFO - SellYourCarPage.py - fill_details - Line:12 - clicking on city
+2025-10-19 20:14:20,063 - INFO - SellYourCarPage.py - fill_details - Line:14 - clicking on pincode box
+2025-10-19 20:14:20,254 - INFO - SellYourCarPage.py - fill_details - Line:16 - searching for pincode
+2025-10-19 20:14:20,508 - INFO - SellYourCarPage.py - fill_details - Line:18 - clicking on desired pincode
+2025-10-19 20:14:20,867 - INFO - SellYourCarPage.py - fill_details - Line:20 - clicking on next button
+2025-10-19 20:14:20,967 - INFO - SellYourCarPage.py - fill_details - Line:22 - selecting year
+2025-10-19 20:14:21,846 - INFO - SellYourCarPage.py - fill_details - Line:24 - selecting month
+2025-10-19 20:14:22,051 - INFO - SellYourCarPage.py - fill_details - Line:26 - selecting brand
+2025-10-19 20:14:22,281 - INFO - SellYourCarPage.py - fill_details - Line:28 - selecting model
+2025-10-19 20:14:22,984 - INFO - SellYourCarPage.py - fill_details - Line:30 - selecting fuel
+2025-10-19 20:14:23,154 - INFO - SellYourCarPage.py - fill_details - Line:32 - selecting version
+2025-10-19 20:14:23,764 - INFO - SellYourCarPage.py - fill_details - Line:34 - selecting colour
+2025-10-19 20:14:24,400 - INFO - SellYourCarPage.py - fill_details - Line:36 - selecting alternate fuel
+2025-10-19 20:14:24,545 - INFO - SellYourCarPage.py - fill_details - Line:38 - selecting owner
+2025-10-19 20:14:24,686 - INFO - SellYourCarPage.py - fill_details - Line:40 - typing kilometers
+2025-10-19 20:14:24,794 - INFO - SellYourCarPage.py - fill_details - Line:42 - typing selling price
+2025-10-19 20:14:26,984 - INFO - SellYourCarPage.py - fill_details - Line:45 - clicking on post ad
+2025-10-19 20:14:36,786 - INFO - SellYourCarPage.py - fill_details - Line:10 - searching for city
+2025-10-19 20:14:36,972 - INFO - SellYourCarPage.py - fill_details - Line:12 - clicking on city
+2025-10-19 20:14:37,893 - INFO - SellYourCarPage.py - fill_details - Line:14 - clicking on pincode box
+2025-10-19 20:14:38,053 - INFO - SellYourCarPage.py - fill_details - Line:16 - searching for pincode
+2025-10-19 20:14:38,258 - INFO - SellYourCarPage.py - fill_details - Line:18 - clicking on desired pincode
+2025-10-19 20:14:38,371 - INFO - SellYourCarPage.py - fill_details - Line:20 - clicking on next button
+2025-10-19 20:14:38,460 - INFO - SellYourCarPage.py - fill_details - Line:22 - selecting year
+2025-10-19 20:14:39,137 - INFO - SellYourCarPage.py - fill_details - Line:24 - selecting month
+2025-10-19 20:14:39,295 - INFO - SellYourCarPage.py - fill_details - Line:26 - selecting brand
+2025-10-19 20:14:39,586 - INFO - SellYourCarPage.py - fill_details - Line:28 - selecting model
+2025-10-19 20:14:40,618 - INFO - SellYourCarPage.py - fill_details - Line:30 - selecting fuel
+2025-10-19 20:14:40,730 - INFO - SellYourCarPage.py - fill_details - Line:32 - selecting version
+2025-10-19 20:14:41,697 - INFO - SellYourCarPage.py - fill_details - Line:34 - selecting colour
+2025-10-19 20:14:42,396 - INFO - SellYourCarPage.py - fill_details - Line:36 - selecting alternate fuel
+2025-10-19 20:14:42,572 - INFO - SellYourCarPage.py - fill_details - Line:38 - selecting owner
+2025-10-19 20:14:42,725 - INFO - SellYourCarPage.py - fill_details - Line:40 - typing kilometers
+2025-10-19 20:14:42,860 - INFO - SellYourCarPage.py - fill_details - Line:42 - typing selling price
+2025-10-19 20:14:45,024 - INFO - SellYourCarPage.py - fill_details - Line:45 - clicking on post ad
