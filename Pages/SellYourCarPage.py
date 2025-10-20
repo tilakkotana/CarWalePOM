@@ -1,4 +1,7 @@
 import time
+
+import allure
+
 from Pages.BasePage import BasePageClass
 from Utilities.generate_logs import get_logs
 log=get_logs()
@@ -41,7 +44,7 @@ class SellYourCar(BasePageClass):
         self.input_text('kilometers_driven_XPATH',Kilometers)
         log.info('typing selling price')
         self.input_text('expected_selling_price_XPATH',selling_price)
-        time.sleep(2)
+        allure.attach(self.driver.get_screenshot_as_png(), name='details screenshot',attachment_type=allure.attachment_type.PNG)
         log.info('clicking on post ad')
         self.click('post_your_ad_XPATH')
         time.sleep(2)

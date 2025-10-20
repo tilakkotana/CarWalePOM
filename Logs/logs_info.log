@@ -780,3 +780,227 @@
 2025-10-20 16:33:10,506 - INFO - logger.py - log - Line:11 - Get LATEST edgedriver version for Edge 141.0.3537
 2025-10-20 16:33:25,221 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
 2025-10-20 16:33:26,952 - INFO - logger.py - log - Line:11 - Get LATEST edgedriver version for Edge 141.0.3537
+2025-10-20 23:35:09,524 - INFO - test_new_cars_details.py - setup_class - Line:16 - test new cars details started
+2025-10-20 23:35:09,524 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:35:11,177 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:11,260 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:11,317 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:35:15,124 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:29 - extracting maruti suzuki car details
+2025-10-20 23:35:15,124 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:35:15,523 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:35:15,523 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:35:16,013 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:35:17,018 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:35:17,106 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:35:19,114 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:23 - clicking on maruti suzuki cars
+2025-10-20 23:35:19,184 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:25 - clicked on maruti suzuki cars
+2025-10-20 23:35:20,161 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:31 - writing maruti suzuki car details in excel
+2025-10-20 23:35:20,179 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:33 - maruti suzuki car details saved in excel
+2025-10-20 23:35:22,426 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:35:24,077 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:24,138 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:24,200 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:35:27,928 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:36 - extracting mahindra car details
+2025-10-20 23:35:27,928 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:35:28,342 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:35:28,342 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:35:28,557 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:35:29,575 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:35:29,662 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:35:31,665 - INFO - NewCarsPage.py - select_Mahindra - Line:29 - clicking on mahindra cars
+2025-10-20 23:35:31,740 - INFO - NewCarsPage.py - select_Mahindra - Line:31 - clicked on mahindra cars
+2025-10-20 23:35:32,676 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:38 - writing mahindra car details in excel
+2025-10-20 23:35:32,709 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:40 - mahindra car details saved in excel
+2025-10-20 23:35:34,988 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:35:36,605 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:36,662 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:36,717 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:35:40,382 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:43 - extracting tata car details
+2025-10-20 23:35:40,382 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:35:40,824 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:35:40,824 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:35:41,014 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:35:42,015 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:35:42,078 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:35:44,083 - INFO - NewCarsPage.py - select_TATA - Line:35 - clicking on tata cars
+2025-10-20 23:35:44,183 - INFO - NewCarsPage.py - select_TATA - Line:37 - clicked on tata cars
+2025-10-20 23:35:45,099 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:45 - writing tata car details in excel
+2025-10-20 23:35:45,158 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:47 - tata car details saved in excel
+2025-10-20 23:35:47,420 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:35:49,023 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:49,104 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:35:49,165 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:35:53,082 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:50 - extracting bentley car details
+2025-10-20 23:35:53,082 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:35:53,477 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:35:53,477 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:35:53,690 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:35:54,707 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:35:54,771 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:35:56,784 - INFO - NewCarsPage.py - select_Bentley - Line:41 - clicking on bentley cars
+2025-10-20 23:35:56,881 - INFO - NewCarsPage.py - select_Bentley - Line:43 - clicked on bentley cars
+2025-10-20 23:35:57,487 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:52 - writing bentley car details in excel
+2025-10-20 23:35:57,527 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:54 - bentley car details saved in excel
+2025-10-20 23:35:59,785 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:36:02,056 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:36:02,104 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:36:02,191 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:36:06,628 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:13 - searching for car news
+2025-10-20 23:36:08,973 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:17 - clicking on latest news icon
+2025-10-20 23:36:09,892 - INFO - test_news.py - test_news - Line:24 - news screenshot attached to allure
+2025-10-20 23:36:12,175 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:36:14,092 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:36:14,145 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:36:14,220 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:36:36,261 - INFO - SellYourCarPage.py - fill_details - Line:10 - searching for city
+2025-10-20 23:36:37,061 - INFO - SellYourCarPage.py - fill_details - Line:12 - clicking on city
+2025-10-20 23:36:37,259 - INFO - SellYourCarPage.py - fill_details - Line:14 - clicking on pincode box
+2025-10-20 23:36:37,576 - INFO - SellYourCarPage.py - fill_details - Line:16 - searching for pincode
+2025-10-20 23:36:37,912 - INFO - SellYourCarPage.py - fill_details - Line:18 - clicking on desired pincode
+2025-10-20 23:36:38,076 - INFO - SellYourCarPage.py - fill_details - Line:20 - clicking on next button
+2025-10-20 23:36:38,199 - INFO - SellYourCarPage.py - fill_details - Line:22 - selecting year
+2025-10-20 23:36:39,058 - INFO - SellYourCarPage.py - fill_details - Line:24 - selecting month
+2025-10-20 23:36:39,158 - INFO - SellYourCarPage.py - fill_details - Line:26 - selecting brand
+2025-10-20 23:36:39,279 - INFO - SellYourCarPage.py - fill_details - Line:28 - selecting model
+2025-10-20 23:36:39,947 - INFO - SellYourCarPage.py - fill_details - Line:30 - selecting fuel
+2025-10-20 23:36:40,020 - INFO - SellYourCarPage.py - fill_details - Line:32 - selecting version
+2025-10-20 23:36:40,631 - INFO - SellYourCarPage.py - fill_details - Line:34 - selecting colour
+2025-10-20 23:36:41,287 - INFO - SellYourCarPage.py - fill_details - Line:36 - selecting alternate fuel
+2025-10-20 23:36:41,355 - INFO - SellYourCarPage.py - fill_details - Line:38 - selecting owner
+2025-10-20 23:36:41,451 - INFO - SellYourCarPage.py - fill_details - Line:40 - typing kilometers
+2025-10-20 23:36:41,540 - INFO - SellYourCarPage.py - fill_details - Line:42 - typing selling price
+2025-10-20 23:36:43,646 - INFO - SellYourCarPage.py - fill_details - Line:45 - clicking on post ad
+2025-10-20 23:36:48,094 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:36:49,661 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:36:49,732 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:36:49,795 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:37:05,154 - INFO - SellYourCarPage.py - fill_details - Line:10 - searching for city
+2025-10-20 23:37:06,296 - INFO - SellYourCarPage.py - fill_details - Line:12 - clicking on city
+2025-10-20 23:37:06,922 - INFO - SellYourCarPage.py - fill_details - Line:14 - clicking on pincode box
+2025-10-20 23:37:07,104 - INFO - SellYourCarPage.py - fill_details - Line:16 - searching for pincode
+2025-10-20 23:37:07,363 - INFO - SellYourCarPage.py - fill_details - Line:18 - clicking on desired pincode
+2025-10-20 23:37:07,513 - INFO - SellYourCarPage.py - fill_details - Line:20 - clicking on next button
+2025-10-20 23:37:07,634 - INFO - SellYourCarPage.py - fill_details - Line:22 - selecting year
+2025-10-20 23:37:08,349 - INFO - SellYourCarPage.py - fill_details - Line:24 - selecting month
+2025-10-20 23:37:08,508 - INFO - SellYourCarPage.py - fill_details - Line:26 - selecting brand
+2025-10-20 23:37:08,670 - INFO - SellYourCarPage.py - fill_details - Line:28 - selecting model
+2025-10-20 23:37:09,363 - INFO - SellYourCarPage.py - fill_details - Line:30 - selecting fuel
+2025-10-20 23:37:09,438 - INFO - SellYourCarPage.py - fill_details - Line:32 - selecting version
+2025-10-20 23:37:10,208 - INFO - SellYourCarPage.py - fill_details - Line:34 - selecting colour
+2025-10-20 23:37:10,818 - INFO - SellYourCarPage.py - fill_details - Line:36 - selecting alternate fuel
+2025-10-20 23:37:10,903 - INFO - SellYourCarPage.py - fill_details - Line:38 - selecting owner
+2025-10-20 23:37:10,988 - INFO - SellYourCarPage.py - fill_details - Line:40 - typing kilometers
+2025-10-20 23:37:11,073 - INFO - SellYourCarPage.py - fill_details - Line:42 - typing selling price
+2025-10-20 23:37:13,177 - INFO - SellYourCarPage.py - fill_details - Line:45 - clicking on post ad
+2025-10-20 23:39:49,636 - INFO - test_new_cars_details.py - setup_class - Line:16 - test new cars details started
+2025-10-20 23:39:49,636 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:39:51,216 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:39:51,282 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:39:51,341 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:39:54,215 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:29 - extracting maruti suzuki car details
+2025-10-20 23:39:54,216 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:39:54,630 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:39:54,630 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:39:54,799 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:39:55,812 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:39:55,872 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:39:57,872 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:23 - clicking on maruti suzuki cars
+2025-10-20 23:39:57,990 - INFO - NewCarsPage.py - select_MarutiSuzuki - Line:25 - clicked on maruti suzuki cars
+2025-10-20 23:39:58,954 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:31 - writing maruti suzuki car details in excel
+2025-10-20 23:39:58,972 - INFO - test_new_cars_details.py - test_get_maruti_suzuki_cars_details - Line:33 - maruti suzuki car details saved in excel
+2025-10-20 23:40:01,293 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:40:03,198 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:03,263 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:03,359 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:40:05,050 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:36 - extracting mahindra car details
+2025-10-20 23:40:05,052 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:40:07,878 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:40:07,878 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:40:08,096 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:40:09,097 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:40:09,154 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:40:11,169 - INFO - NewCarsPage.py - select_Mahindra - Line:29 - clicking on mahindra cars
+2025-10-20 23:40:11,253 - INFO - NewCarsPage.py - select_Mahindra - Line:31 - clicked on mahindra cars
+2025-10-20 23:40:12,248 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:38 - writing mahindra car details in excel
+2025-10-20 23:40:12,298 - INFO - test_new_cars_details.py - test_get_mahindra_cars_details - Line:40 - mahindra car details saved in excel
+2025-10-20 23:40:14,579 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:40:16,328 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:16,380 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:16,460 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:40:20,545 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:43 - extracting tata car details
+2025-10-20 23:40:20,545 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:40:20,978 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:40:20,978 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:40:21,203 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:40:22,212 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:40:22,302 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:40:24,305 - INFO - NewCarsPage.py - select_TATA - Line:35 - clicking on tata cars
+2025-10-20 23:40:24,388 - INFO - NewCarsPage.py - select_TATA - Line:37 - clicked on tata cars
+2025-10-20 23:40:25,264 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:45 - writing tata car details in excel
+2025-10-20 23:40:25,314 - INFO - test_new_cars_details.py - test_get_tata_cars_details - Line:47 - tata car details saved in excel
+2025-10-20 23:40:27,597 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:40:29,354 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:29,427 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:29,492 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:40:33,397 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:50 - extracting bentley car details
+2025-10-20 23:40:33,398 - INFO - HomePage.py - go_to_find_new_cars - Line:15 - hovering on new cars
+2025-10-20 23:40:33,832 - INFO - HomePage.py - go_to_find_new_cars - Line:17 - hovered on new cars
+2025-10-20 23:40:33,834 - INFO - HomePage.py - go_to_find_new_cars - Line:18 - clicking on find new cars
+2025-10-20 23:40:34,067 - INFO - HomePage.py - go_to_find_new_cars - Line:20 - clicked on find new cars
+2025-10-20 23:40:35,079 - INFO - NewCarsPage.py - __init__ - Line:15 - clicking on view more brands
+2025-10-20 23:40:35,138 - INFO - NewCarsPage.py - __init__ - Line:18 - clicked on view more brands
+2025-10-20 23:40:37,139 - INFO - NewCarsPage.py - select_Bentley - Line:41 - clicking on bentley cars
+2025-10-20 23:40:37,233 - INFO - NewCarsPage.py - select_Bentley - Line:43 - clicked on bentley cars
+2025-10-20 23:40:37,868 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:52 - writing bentley car details in excel
+2025-10-20 23:40:37,929 - INFO - test_new_cars_details.py - test_get_bentley_cars_details - Line:54 - bentley car details saved in excel
+2025-10-20 23:40:40,271 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:40:42,148 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:42,206 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:42,264 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:40:46,912 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:13 - searching for car news
+2025-10-20 23:40:49,364 - INFO - NewsPage.py - get_latest_news_details_of_specific_car - Line:17 - clicking on latest news icon
+2025-10-20 23:40:50,331 - INFO - test_news.py - test_news - Line:24 - news screenshot attached to allure
+2025-10-20 23:40:52,681 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:40:54,406 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:54,695 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:40:54,757 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:41:02,652 - INFO - SellYourCarPage.py - fill_details - Line:13 - searching for city
+2025-10-20 23:41:03,980 - INFO - SellYourCarPage.py - fill_details - Line:15 - clicking on city
+2025-10-20 23:41:04,722 - INFO - SellYourCarPage.py - fill_details - Line:17 - clicking on pincode box
+2025-10-20 23:41:04,988 - INFO - SellYourCarPage.py - fill_details - Line:19 - searching for pincode
+2025-10-20 23:41:05,407 - INFO - SellYourCarPage.py - fill_details - Line:21 - clicking on desired pincode
+2025-10-20 23:41:05,600 - INFO - SellYourCarPage.py - fill_details - Line:23 - clicking on next button
+2025-10-20 23:41:05,739 - INFO - SellYourCarPage.py - fill_details - Line:25 - selecting year
+2025-10-20 23:41:06,553 - INFO - SellYourCarPage.py - fill_details - Line:27 - selecting month
+2025-10-20 23:41:06,668 - INFO - SellYourCarPage.py - fill_details - Line:29 - selecting brand
+2025-10-20 23:41:06,783 - INFO - SellYourCarPage.py - fill_details - Line:31 - selecting model
+2025-10-20 23:41:07,440 - INFO - SellYourCarPage.py - fill_details - Line:33 - selecting fuel
+2025-10-20 23:41:07,523 - INFO - SellYourCarPage.py - fill_details - Line:35 - selecting version
+2025-10-20 23:41:08,159 - INFO - SellYourCarPage.py - fill_details - Line:37 - selecting colour
+2025-10-20 23:41:08,804 - INFO - SellYourCarPage.py - fill_details - Line:39 - selecting alternate fuel
+2025-10-20 23:41:08,879 - INFO - SellYourCarPage.py - fill_details - Line:41 - selecting owner
+2025-10-20 23:41:08,954 - INFO - SellYourCarPage.py - fill_details - Line:43 - typing kilometers
+2025-10-20 23:41:09,043 - INFO - SellYourCarPage.py - fill_details - Line:45 - typing selling price
+2025-10-20 23:41:09,288 - INFO - SellYourCarPage.py - fill_details - Line:48 - clicking on post ad
+2025-10-20 23:41:13,784 - INFO - logger.py - log - Line:11 - ====== WebDriver manager ======
+2025-10-20 23:41:15,644 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:41:15,722 - INFO - logger.py - log - Line:11 - Get LATEST chromedriver version for google-chrome
+2025-10-20 23:41:15,785 - INFO - logger.py - log - Line:11 - Driver [C:\Users\tilak\.wdm\drivers\chromedriver\win64\141.0.7390.78\chromedriver-win32/chromedriver.exe] found in cache
+2025-10-20 23:41:22,738 - INFO - SellYourCarPage.py - fill_details - Line:13 - searching for city
+2025-10-20 23:41:23,819 - INFO - SellYourCarPage.py - fill_details - Line:15 - clicking on city
+2025-10-20 23:41:24,490 - INFO - SellYourCarPage.py - fill_details - Line:17 - clicking on pincode box
+2025-10-20 23:41:24,685 - INFO - SellYourCarPage.py - fill_details - Line:19 - searching for pincode
+2025-10-20 23:41:24,954 - INFO - SellYourCarPage.py - fill_details - Line:21 - clicking on desired pincode
+2025-10-20 23:41:25,129 - INFO - SellYourCarPage.py - fill_details - Line:23 - clicking on next button
+2025-10-20 23:41:25,245 - INFO - SellYourCarPage.py - fill_details - Line:25 - selecting year
+2025-10-20 23:41:25,864 - INFO - SellYourCarPage.py - fill_details - Line:27 - selecting month
+2025-10-20 23:41:26,042 - INFO - SellYourCarPage.py - fill_details - Line:29 - selecting brand
+2025-10-20 23:41:26,201 - INFO - SellYourCarPage.py - fill_details - Line:31 - selecting model
+2025-10-20 23:41:26,923 - INFO - SellYourCarPage.py - fill_details - Line:33 - selecting fuel
+2025-10-20 23:41:27,007 - INFO - SellYourCarPage.py - fill_details - Line:35 - selecting version
+2025-10-20 23:41:27,740 - INFO - SellYourCarPage.py - fill_details - Line:37 - selecting colour
+2025-10-20 23:41:28,364 - INFO - SellYourCarPage.py - fill_details - Line:39 - selecting alternate fuel
+2025-10-20 23:41:28,446 - INFO - SellYourCarPage.py - fill_details - Line:41 - selecting owner
+2025-10-20 23:41:28,540 - INFO - SellYourCarPage.py - fill_details - Line:43 - typing kilometers
+2025-10-20 23:41:28,633 - INFO - SellYourCarPage.py - fill_details - Line:45 - typing selling price
+2025-10-20 23:41:28,920 - INFO - SellYourCarPage.py - fill_details - Line:48 - clicking on post ad
