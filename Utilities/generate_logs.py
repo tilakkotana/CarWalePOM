@@ -2,7 +2,6 @@ import logging
 from pathlib import Path
 
 file_path=Path.cwd().parent/'Logs/logs_info.log'
-
 def get_logs():
     for i in logging.root.handlers[:]:
         logging.root.removeHandler(i)
