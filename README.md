@@ -52,8 +52,10 @@ This will install Selenium, OpenPyXL, pytest, and other necessary packages.
 Step 4: Make sure the configuration settings in ConfigurationData/config.ini are correct, and ensure that the Excel sheets in the Excel/ folder contain the necessary data for posting car ads.
 
 Step 5: Now you can run all test cases using 
+cd TestCases
 pytest
 or run a specific test case like 
+cd TestCases
 pytest TestCases/test_example.py.
 
 Step 6: After execution, you can view the detailed results and news images in the Allure reports, and check the Logs/ folder if you need execution logs.
