@@ -53,10 +53,11 @@ Step 4: Make sure the configuration settings in ConfigurationData/config.ini are
 
 Step 5: Now you can run all test cases using 
 cd TestCases
-pytest
+pytest --alluredir ../Reports
+allure serve ../Reports
 or run a specific test case like 
 cd TestCases
-pytest TestCases/test_example.py.
+pytest TestCases/test_example.py
 
 Step 6: After execution, you can view the detailed results and news images in the Allure reports, and check the Logs/ folder if you need execution logs.
 Always ensure your browser version matches the WebDriver version used in the framework and that the virtual environment is activated before running tests.
