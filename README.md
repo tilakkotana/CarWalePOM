@@ -23,7 +23,8 @@ This project is designed to automate several key functionalities on the Carwale 
 
 ## **Project Features**
 - Implements **Page Object Model (POM)** for maintainable and reusable test scripts.  
-- Uses **Selenium WebDriver** for browser automation.  
+- Uses **Selenium WebDriver** for browser automation.
+- Uses Pytest for test execution and test management.
 - Handles **Excel data input/output** using `openpyxl`.  
 - Generates **Allure reports** including news images.  
 - Easy to extend for additional automation tasks.
